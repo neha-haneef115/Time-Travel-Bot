@@ -1,3 +1,5 @@
 chainlit
 openai==1.25.1
+httpx<0.28
 python-dotenv
+requests
